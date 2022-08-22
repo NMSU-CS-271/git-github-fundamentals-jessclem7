@@ -109,3 +109,15 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# Jessica Clem aka Alien Darling 👽 ❇️
+## What I learned while completing this first assignment:
+   * the fundamentals of github 👍
+   * the vocabulary used on github 👍
+   * how to create/style/edit a markdown in a repository 👍
+   * about the github community 👍
+   
+## What I need to work on:
+   * *importing links and pictures to a markdown* ❗
+   
